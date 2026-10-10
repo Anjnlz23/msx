@@ -1,0 +1,20 @@
+{
+  "name": "MovieBoxPro Launcher",
+  "version": "1.0.0",
+  "type": "pages",
+  "headline": "MovieBoxPro",
+  "template": {
+    "type": "button",
+    "layout": "0,0,4,2",
+    "icon": "movie",
+    "iconSize": "large"
+  },
+  "items": [
+    {
+      "id": "open_movieboxpro",
+      "label": "Open MovieBoxPro",
+      "action": "link:https://www.movieboxpro.app/",
+      "focus": true
+    }
+  ]
+}

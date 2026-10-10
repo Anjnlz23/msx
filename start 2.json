@@ -1,0 +1,9 @@
+{
+  "name": "MovieBoxPro Web Launcher",
+  "version": "1.0.0",
+  "parameter": "content:json:eyJuYW1lIjoiTW92aWVCb3hQcm8gTGF1bmNoZXIiLCJ2ZXJzaW9uIjoiMS4wLjAiLCJ0eXBlIjoicGFnZXMiLCJoZWFkbGluZSI6Ik1vdmllQm94UHJvIiwidGVtcGxhdGUiOnsidHlwZSI6ImJ1dHRvbiIsImxheW91dCI6IjAsMCw0LDIiLCJpY29uIjoibW92aWUiLCJpY29uU2l6ZSI6ImxhcmdlIn0sIml0ZW1zIjpbeyJpZCI6Im9wZW5fbW92aWVib3hwcm8iLCJsYWJlbCI6Ik9wZW4gTW92aWVCb3hQcm8iLCJhY3Rpb24iOiJsaW5rOmh0dHBzOi8vd3d3Lm1vdmllYm94cHJvLmFwcC8iLCJmb2N1cyI6dHJ1ZX1dfQ==",
+  "launcher": {
+    "icon": "movie",
+    "color": "#151923"
+  }
+}
